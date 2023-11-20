@@ -1,0 +1,20 @@
+div {
+  text-align: center;
+}
+button {
+  height: 2em;
+  width: 6em;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.verde {
+  background-color: lime;
+}
+.vermelho {
+  background-color: red;
+}
+.amarelo {
+  background-color: yellow;
+}
